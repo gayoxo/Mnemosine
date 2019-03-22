@@ -1,0 +1,654 @@
+[{
+	"Description": "Vidal y Planas, Alfonso",
+	"Locations": {
+		
+	},
+	"Routes": {
+		"Estancia": {
+			"0": {
+				"Latitude": "48.856908",
+				"Longitude": "2.3524260000000368"
+			},
+			"1": {
+				"Latitude": "40.7127503",
+				"Longitude": "-74.00597649999997"
+			},
+			"2": {
+				"Latitude": "34.0521691",
+				"Longitude": "-118.24371759999997"
+			},
+			"3": {
+				"Latitude": "32.5148457",
+				"Longitude": "-117.03814790000001"
+			}
+		}
+	}
+},
+{
+	"Description": "Bartra, AgustÃ­ ",
+	"Locations": {
+		
+	},
+	"Routes": {
+		"Estancia": {
+			"0": {
+				"Latitude": "42.5461299",
+				"Longitude": "3.02288539999995"
+			},
+			"1": {
+				"Latitude": "42.61783",
+				"Longitude": "3.0041820000000143"
+			},
+			"2": {
+				"Latitude": "43.3088",
+				"Longitude": "3.4770287000000053"
+			},
+			"3": {
+				"Latitude": "48.7903791",
+				"Longitude": "2.6563943999999537"
+			},
+			"4": {
+				"Latitude": "18.5258346",
+				"Longitude": "-69.88627639999998"
+			},
+			"5": {
+				"Latitude": "23.1134291",
+				"Longitude": "-82.36669840000002"
+			},
+			"6": {
+				"Latitude": "23.634501",
+				"Longitude": "-102.55278399999997"
+			},
+			"7": {
+				"Latitude": "40.7127503",
+				"Longitude": "-74.00597649999997"
+			},
+			"8": {
+				"Latitude": "19.4361609",
+				"Longitude": "-99.13731359999997"
+			},
+			"9": {
+				"Latitude": "41.30827360000001",
+				"Longitude": "-72.9280124"
+			},
+			"10": {
+				"Latitude": "19.5491421",
+				"Longitude": "-103.81126560000001"
+			},
+			"11": {
+				"Latitude": "38.9072443",
+				"Longitude": "-77.03729220000002"
+			},
+			"12": {
+				"Latitude": "17.9156422",
+				"Longitude": "-94.09307560000002"
+			},
+			"13": {
+				"Latitude": "38.9703151",
+				"Longitude": "-76.9416089"
+			},
+			"14": {
+				"Latitude": "41.5633436",
+				"Longitude": "2.0081629999999677"
+			}
+		}
+	}
+},
+{
+	"Description": "Casalduero MartÃ­, JoaquÃ­n",
+	"Locations": {
+		
+	},
+	"Routes": {
+		"Estancia": {
+			"0": {
+				"Latitude": "42.325090",
+				"Longitude": "-72.641201"
+			},
+			"1": {
+				"Latitude": "43.073052",
+				"Longitude": "-89.401230"
+			},
+			"2": {
+				"Latitude": "40.767639",
+				"Longitude": "-73.967865 "
+			},
+			"3": {
+				"Latitude": "42.323924",
+				"Longitude": "-72.633938"
+			},
+			"4": {
+				"Latitude": "40.733407",
+				"Longitude": "-73.995812"
+			},
+			"5": {
+				"Latitude": "32.870819",
+				"Longitude": "-117.233942"
+			},
+			"6": {
+				"Latitude": "40.712775",
+				"Longitude": "-74.005973"
+			}
+		}
+	}
+},
+{
+	"Description": "Clariana, Bernardo",
+	"Locations": {
+		
+	},
+	"Routes": {
+		"Estancia": {
+			"0": {
+				"Latitude": "42.617830",
+				"Longitude": "3.004182"
+			},
+			"1": {
+				"Latitude": "18.486058",
+				"Longitude": "-69.931212"
+			},
+			"2": {
+				"Latitude": "23.113592",
+				"Longitude": "-82.366596"
+			},
+			"3": {
+				"Latitude": "44.015337",
+				"Longitude": "-73.167340"
+			},
+			"4": {
+				"Latitude": "40.735216",
+				"Longitude": "-74.005517"
+			}
+		}
+	}
+},
+{
+	"Description": "Carner-Ribalta, Josep",
+	"Locations": {
+		
+	},
+	"Routes": {
+		"Estancia": {
+			"0": {
+				"Latitude": "48.856908",
+				"Longitude": "2.3524260000000368"
+			},
+			"1": {
+				"Latitude": "23.634501",
+				"Longitude": "-102.55278399999997"
+			},
+			"2": {
+				"Latitude": "40.7127503",
+				"Longitude": "-74.00597649999997"
+			},
+			"3": {
+				"Latitude": "34.139086",
+				"Longitude": "-118.214113"
+			},
+			"4": {
+				"Latitude": "38.9072443",
+				"Longitude": "-77.03729220000002"
+			},
+			"5": {
+				"Latitude": "35.7359179",
+				"Longitude": "-78.99668880000002"
+			},
+			"6": {
+				"Latitude": "38.904829",
+				"Longitude": "-77.06258509999998"
+			},
+			"7": {
+				"Latitude": "34.2693865",
+				"Longitude": "-118.7814457"
+			}
+		}
+	}
+},
+{
+	"Description": "FernÃ¡ndez Granell, Eugenio",
+	"Locations": {
+		
+	},
+	"Routes": {
+		"Estancia": {
+			"0": {
+				"Latitude": "42.688659",
+				"Longitude": "2.894833"
+			},
+			"1": {
+				"Latitude": "48.856924",
+				"Longitude": "2.352684100000033"
+			},
+			"2": {
+				"Latitude": "44.837789 ",
+				"Longitude": "-0.579180"
+			},
+			"3": {
+				"Latitude": "18.471646",
+				"Longitude": "-69.888085"
+			},
+			"4": {
+				"Latitude": "14.6349261",
+				"Longitude": "-90.50714820000002"
+			},
+			"5": {
+				"Latitude": "18.4661021",
+				"Longitude": "-66.10538029999998"
+			},
+			"6": {
+				"Latitude": "40.7127461",
+				"Longitude": "-74.00597399999998"
+			}
+		}
+	}
+},
+{
+	"Description": "Garcitoral, Alicio ",
+	"Locations": {
+		
+	},
+	"Routes": {
+		"Estancia": {
+			"0": {
+				"Latitude": "44.8375229",
+				"Longitude": "-0.5790878000000248"
+			},
+			"1": {
+				"Latitude": "46.2049619",
+				"Longitude": "6.142823599999929"
+			},
+			"2": {
+				"Latitude": "44.8375229",
+				"Longitude": "-0.5790878000000248"
+			},
+			"3": {
+				"Latitude": "-34.63781600000001",
+				"Longitude": "-58.43613879999998"
+			},
+			"4": {
+				"Latitude": "23.1134291",
+				"Longitude": "-82.36669840000002"
+			},
+			"5": {
+				"Latitude": "40.7127461",
+				"Longitude": "-74.00597399999998"
+			},
+			"6": {
+				"Latitude": "-34.6152465",
+				"Longitude": "-58.358363999999995"
+			},
+			"7": {
+				"Latitude": "40.7127461",
+				"Longitude": "-74.00597399999998"
+			},
+			"8": {
+				"Latitude": "42.2528382",
+				"Longitude": "-71.0026954"
+			}
+		}
+	}
+},
+{
+	"Description": "Guerra da Cal, Ernesto ",
+	"Locations": {
+		
+	},
+	"Routes": {
+		"Estancia": {
+			"0": {
+				"Latitude": "40.815718",
+				"Longitude": "-73.962466"
+			},
+			"1": {
+				"Latitude": "38.7131735",
+				"Longitude": "-9.393646799999942"
+			},
+			"2": {
+				"Latitude": "51.5073649",
+				"Longitude": "-0.1281351000000086"
+			},
+			"3": {
+				"Latitude": "38.7222557",
+				"Longitude": "-9.139389299999948"
+			}
+		}
+	}
+},
+{
+	"Description": "Giner de los RÃ­os GarcÃ­a, Gloria",
+	"Locations": {
+		
+	},
+	"Routes": {
+		"Estancia": {
+			"0": {
+				"Latitude": "38.9077561",
+				"Longitude": "-77.03598199999999"
+			},
+			"1": {
+				"Latitude": "40.7127461",
+				"Longitude": "-74.00597399999998"
+			}
+		}
+	}
+},
+{
+	"Description": "GarcÃ­a Lorca, Francisco",
+	"Locations": {
+		
+	},
+	"Routes": {
+		"Estancia": {
+			"0": {
+				"Latitude": "40.808823",
+				"Longitude": "-73.965919"
+			}
+		}
+	}
+},
+{
+	"Description": "Otero EspasandÃ­n, JosÃ© Rogelio ",
+	"Locations": {
+		
+	},
+	"Routes": {
+		"Estancia": {
+			"0": {
+				"Latitude": "42.61783",
+				"Longitude": "3.0041820000000143"
+			},
+			"1": {
+				"Latitude": "52.6310163",
+				"Longitude": "1.2975662999999713"
+			},
+			"2": {
+				"Latitude": "51.5073649",
+				"Longitude": "-0.1281351000000086"
+			},
+			"3": {
+				"Latitude": "-34.603558",
+				"Longitude": "-58.38165500000002"
+			},
+			"4": {
+				"Latitude": "39.8964615",
+				"Longitude": "-80.17930760000002"
+			},
+			"5": {
+				"Latitude": "38.9072443",
+				"Longitude": "-77.03729220000002"
+			}
+		}
+	}
+},
+{
+	"Description": "Pizarro Zambrano, Miguel ",
+	"Locations": {
+		
+	},
+	"Routes": {
+		"Estancia": {
+			"0": {
+				"Latitude": "49.633731",
+				"Longitude": "-1.622137"
+			},
+			"1": {
+				"Latitude": "40.7127461",
+				"Longitude": "-74.00597399999998"
+			}
+		}
+	}
+},
+{
+	"Description": "Romero Serrano, Marina",
+	"Locations": {
+		
+	},
+	"Routes": {
+		"Estancia": {
+			"0": {
+				"Latitude": "37.8036291",
+				"Longitude": "-122.27168039999998"
+			},
+			"1": {
+				"Latitude": "40.5010274",
+				"Longitude": "-74.4469598"
+			},
+			"2": {
+				"Latitude": "40.4165508",
+				"Longitude": "-3.7037990000000036"
+			}
+		}
+	}
+},
+{
+	"Description": "Rubia Barcia, JosÃ©",
+	"Locations": {
+		
+	},
+	"Routes": {
+		"Estancia": {
+			"0": {
+				"Latitude": "42.38452909999999",
+				"Longitude": "2.613248399999975"
+			},
+			"1": {
+				"Latitude": "42.6886591",
+				"Longitude": "2.8948331999999937"
+			},
+			"2": {
+				"Latitude": "48.856908",
+				"Longitude": "2.3524260000000368"
+			},
+			"3": {
+				"Latitude": "46.16043610000001",
+				"Longitude": "-1.1512738000000127"
+			},
+			"4": {
+				"Latitude": "23.1135925",
+				"Longitude": "-82.36659559999998"
+			},
+			"5": {
+				"Latitude": "40.3442608",
+				"Longitude": "-74.65164649999997"
+			},
+			"6": {
+				"Latitude": "40.7127503",
+				"Longitude": "-74.00597649999997"
+			},
+			"7": {
+				"Latitude": "34.0928292",
+				"Longitude": "-118.3281819"
+			}
+		}
+	}
+},
+{
+	"Description": "Sender, RamÃ³n J. ",
+	"Locations": {
+		
+	},
+	"Routes": {
+		"Estancia": {
+			"0": {
+				"Latitude": "42.5461299",
+				"Longitude": "3.02288539999995"
+			},
+			"1": {
+				"Latitude": "19.4361609",
+				"Longitude": "-99.13731359999997"
+			},
+			"2": {
+				"Latitude": "35.6869695",
+				"Longitude": "-105.93779219999999"
+			},
+			"3": {
+				"Latitude": "39.7392432",
+				"Longitude": "-104.99025039999998"
+			},
+			"4": {
+				"Latitude": "42.37361569999999",
+				"Longitude": "-71.10973339999998"
+			},
+			"5": {
+				"Latitude": "42.3735549",
+				"Longitude": "-72.52041639999999"
+			},
+			"6": {
+				"Latitude": "40.7127503",
+				"Longitude": "-74.00597649999997"
+			},
+			"7": {
+				"Latitude": "35.0847762",
+				"Longitude": "-106.65059129999997"
+			},
+			"8": {
+				"Latitude": "34.0521691",
+				"Longitude": "-118.24371759999997"
+			},
+			"9": {
+				"Latitude": "32.7157333",
+				"Longitude": "-117.16109130000001"
+			}
+		}
+	}
+},
+{
+	"Description": "Vaquero, Eloy",
+	"Locations": {
+		
+	},
+	"Routes": {
+		"Estancia": {
+			"0": {
+				"Latitude": "10.480594",
+				"Longitude": "-66.903606"
+			},
+			"1": {
+				"Latitude": "40.7127461",
+				"Longitude": "-74.00597399999998"
+			}
+		}
+	}
+},
+{
+	"Description": "Caudal y cauce",
+	"Locations": {
+		"Geografia": {
+			"0": {
+				"Latitude": "40.7158088",
+				"Longitude": "-73.9969491"
+			}
+		}
+	},
+	"Routes": {
+		
+	}
+},
+{
+	"Description": "MartÃ­nez Sagi, Ana MarÃ­a",
+	"Locations": {
+		
+	},
+	"Routes": {
+		"Estancia": {
+			"0": {
+				"Latitude": "48.856908",
+				"Longitude": "2.3524260000000368"
+			},
+			"1": {
+				"Latitude": "40.9482301",
+				"Longitude": "-90.37181939999999"
+			}
+		}
+	}
+},
+{
+	"Description": "Serrano Plaja, Arturo",
+	"Locations": {
+		
+	},
+	"Routes": {
+		"Estancia": {
+			"0": {
+				"Latitude": "42.61783",
+				"Longitude": "3.0041820000000143"
+			},
+			"1": {
+				"Latitude": "-33.4488631",
+				"Longitude": "-70.669266"
+			},
+			"2": {
+				"Latitude": "-34.603558",
+				"Longitude": "-58.38165500000002"
+			},
+			"3": {
+				"Latitude": "48.856908",
+				"Longitude": "2.3524260000000368"
+			},
+			"4": {
+				"Latitude": "43.0771235",
+				"Longitude": "-89.41225029999998"
+			},
+			"5": {
+				"Latitude": "44.9772839",
+				"Longitude": "-93.26523650000001"
+			},
+			"6": {
+				"Latitude": "34.4208203",
+				"Longitude": "-119.6980208"
+			}
+		}
+	}
+},
+{
+	"Description": "Larrea, Juan ",
+	"Locations": {
+		
+	},
+	"Routes": {
+		"Estancia": {
+			"0": {
+				"Latitude": "48.856908",
+				"Longitude": "2.3524260000000368"
+			},
+			"1": {
+				"Latitude": "23.634501",
+				"Longitude": "-102.55278399999997"
+			},
+			"2": {
+				"Latitude": "40.8630692",
+				"Longitude": "-73.91894339999999"
+			},
+			"3": {
+				"Latitude": "-31.41990749999999",
+				"Longitude": "-64.18890879999998"
+			}
+		}
+	}
+},
+{
+	"Description": "BuÃ±uel, Luis",
+	"Locations": {
+		
+	},
+	"Routes": {
+		"Estancia": {
+			"0": {
+				"Latitude": "48.866627",
+				"Longitude": "2.300045"
+			},
+			"1": {
+				"Latitude": "34.092809",
+				"Longitude": "-118.328661"
+			},
+			"2": {
+				"Latitude": "40.776132",
+				"Longitude": "-73.953670"
+			},
+			"3": {
+				"Latitude": "34.182578",
+				"Longitude": "-118.439676"
+			}
+		}
+	}
+}]
